@@ -237,7 +237,7 @@ ul{
    
    .il{
       width: 200px;
-      margin-right: 60px;
+      margin-right: 70px;
       margin-left: auto;
    }
    
@@ -253,7 +253,6 @@ ul{
 
    .social-links ul{
       flex-direction: row;
-
    }
    
    .social-links li{
